@@ -197,9 +197,37 @@ namespace Sınav_1
             MessageBox.Show(mesaj);
         }
 
-        private void KahveSiparis()
-        {
-
-        }
+        //private decimal KahveSec(int index,int value,List<int> y)
+        //{
+        //    decimal partialToplam = 0;
+        //    switch (cmbKahve.SelectedIndex)
+        //    {
+        //        case 0:
+        //            partialToplam = value * y[0];
+        //            break;
+        //        case 1:
+        //            partialToplam = value * y[1];
+        //            break;
+        //        case 2:
+        //            partialToplam = value * y[2];
+        //            break;
+        //        case 3:
+        //            partialToplam = value * y[3];
+        //            break;
+        //        case 4:
+        //            partialToplam = value * y[4];
+        //            break;
+        //        case 5:
+        //            partialToplam = value * y[5];
+        //            break;
+        //        case 6:
+        //            partialToplam = value * y[6];
+        //            break;
+        //        default:
+        //            partialToplam = 0;
+        //            break;
+        //    }
+        //    return partialToplam;
+        //}
     }
 }
